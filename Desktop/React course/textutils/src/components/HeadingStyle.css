@@ -1,0 +1,16 @@
+.container{
+    width: 100%;
+    text-align: center;
+    
+    font-size: 30px;
+   font-weight: lighter;
+   margin-top: 5rem;
+   /* background: rgb(238,174,202); */
+/* background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,164,233,1) 100%); */
+}
+.cityList{
+    border: none;
+    color: purple;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}

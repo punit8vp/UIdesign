@@ -1,0 +1,33 @@
+
+.Text{
+    color: purple;
+    font-weight: 600;
+    
+}
+/* .container{
+    align-items: center;
+    
+} */
+
+.gridCard{
+    width: 90vw;
+    margin: 0 auto 0 auto;
+}
+@media only screen and (max-width:768px){
+    .card{
+        width: 40vw;
+    }
+}
+
+@media only screen and (max-width:1030x){
+    .Text{
+        font-size:1vw;
+        margin-top: 5px;
+    }
+}
+@media only screen and (max-width:430px){
+    .card {
+        font-size:2vw;
+
+    }
+}
